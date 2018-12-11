@@ -1,0 +1,228 @@
+
+div.lala {
+text-align: center;
+color:white; }
+ul{
+  margin:0px;
+  padding:0px;
+  list-style: none;
+}
+ul li{
+
+  width:150px;
+  height:40px;
+  line-height: 40px;
+  font-size: 20px;
+  float: left;
+ background-color: black;
+ opacity: 0.7;
+ margin:2px;
+}
+ul li a
+{
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+ul li a:hover
+{background-color: green;}
+ul li ul li{
+display:none;
+margin: 0px;
+padding: 0px;
+}
+ul li:hover ul li
+{display:block; }
+.fstfstpic
+{padding: 2px;
+background-color: black;
+height: 500px;
+  background-color: black;
+  padding: 3px;
+width: 350px;
+margin: auto;
+margin-top: 50px;
+display: block;
+}
+.fstfstfstpic
+{width:500px;
+  height: 250px;
+  transform: rotate(90deg);
+  margin-top: 200px;
+  border-radius: 50px;
+  margin-bottom: 150px;
+  margin-left: 35%;
+
+}
+.fstname{
+  color:black;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 50px;
+  font-family: cursive;
+  opacity: 0.9;
+  border-bottom: black solid 3px;
+  padding-bottom: 100px;
+}
+.fstback{
+  background-image: url("111.jpg");
+  background-size: cover;
+  border-bottom: 4px navy solid;
+  background-attachment: fixed;
+  margin-bottom: 0px;
+}
+
+.sndtext {margin:10%;
+margin-left: 20%;
+  margin-top: 0px;
+  background-color: black;
+  background-size: auto;
+  font-family: comic sans ms;
+  color: white;
+  border: solid black 2px;
+width:60%;border-bottom: black solid 3px;
+}
+.sndpic
+{
+
+  float: left;
+  height: 450px;
+  width: 570px;
+
+  transform: rotate(90deg);
+  margin-top: 100px;
+  margin-bottom: 10%;
+
+}
+.sndback
+{background-image: url("back11page.jpg");
+background-size: cover;
+border-bottom: navy solid 4px;
+background-attachment: fixed;
+}
+
+.thdtext{margin:10%;
+  margin-left: 20%;
+  margin-top: 0px;
+  background-color: black;
+  font-family: comic sans ms;
+  color: white;
+  border: solid black 2px;
+width:50%;border-bottom: black solid 3px;
+}
+
+.thdpic
+{  float:right;
+  background-color: black;
+  height: 500px;
+  padding: 3px;
+  width: 350px;
+  margin: auto;
+  display: block;
+  width: 500px;
+
+}
+.thdback
+{background-image: url("back4.jpg");
+background-size: cover;
+border-bottom: navy solid 4px;
+background-attachment: fixed;}
+.fthtext{margin:10%;
+  margin-top: 0px;
+  background-color: black;
+  font-family: comic sans ms;
+  color: white;
+  border: solid black 2px;
+border-bottom: black solid 3px;
+margin-left: 20%;
+}
+.fthpic
+{margin-left:40%;
+align: center;
+  padding: 2px;
+  background-color: black;
+  margin-bottom: 100px;
+  height: 500px;
+    background-color: black;
+    padding: 3px;
+  width: 350px;
+  margin: auto;
+  margin-top: 0px;
+  display: block;
+  margin-bottom: 50px;
+}
+.fthback
+{background-image: url("backnew.jpg");
+background-size: cover;
+border-bottom: navy solid 4px;
+background-attachment: fixed;
+}
+.left
+{float:left;
+width:20%;
+color:white;
+background:black;
+opacity:0.8;
+margin-left: 200px;}
+.right
+{float:right;
+width:20%;color:white;background:black;opacity:0.8;
+margin-right: 200px;}
+
+.fthhead
+{text-align:center;
+color:gold;
+margin-top: 0px;
+margin-bottom: 50px;
+}
+.fifthback
+{
+  background-image: url("back4.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+
+}
+.sndhead
+{
+  margin-top: 0px;color: gold;
+  font-family: cursive;
+text-align: center;}
+.thdhead
+{
+  margin-top: 0px;color: gold;
+  font-family: cursive;
+text-align: center;}
+.feedbackhead
+{
+  margin-top: 0px;color: gold;
+  font-family: cursive;
+text-align: center;}
+.feedbacktext
+{color:gold;
+font-size: 30px;
+text-align: center;
+font-family: cursive;}
+.form{
+  margin-left: 30%;
+margin-top: 0px;
+  color: gold;
+  font-size: 50px;
+}
+.butt{
+  border: gold 1px solid;
+  background: black;
+  color: gold;
+font-size: 30px;
+margin-left: 50%;
+}
+.feed{
+  color: yellow;
+  size:100px;
+  text-align: center;
+}
+.last{
+  text-align:center;
+  color:gold;
+  font-family: cursive;
+}
